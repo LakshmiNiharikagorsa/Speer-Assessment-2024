@@ -36,6 +36,7 @@ Based on data and keywords we can fetch the data for the notes with high perform
 
 * A .env file is required for configuration settings, including the MongoDB connection string and JWT secret key.
 * A test script is included in the package.json file for running tests with npm test.
+* UnZip the dependencies (``node modules.zip``) after clonning the project 
 
 ## 5) Commands we can refer using PostMan
 
